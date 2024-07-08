@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connect to server2", "connect to server2.csproj", "{0252CF04-56E1-437B-80C2-9B3371D3EF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0252CF04-56E1-437B-80C2-9B3371D3EF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0252CF04-56E1-437B-80C2-9B3371D3EF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0252CF04-56E1-437B-80C2-9B3371D3EF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0252CF04-56E1-437B-80C2-9B3371D3EF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A23F01F5-B48E-44AD-AEED-8CCE98B2FD23}
+	EndGlobalSection
+EndGlobal
